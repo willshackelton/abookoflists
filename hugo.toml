@@ -1,0 +1,4 @@
+baseURL = "https://abookoflists.com/"
+locale = "en-us"
+title = "A Book of Lists"
+theme = "PaperMod"
